@@ -1,4 +1,4 @@
-# 🏚️Real_Estate_Price-Prediction
+# 🏚️Real_Estate_Price-Prediction Machine Learning Project
 ## 📌 1. Introduction
 This project aims to develop a predictive model to estimate housing prices based on various input features such as location, square footage, number of bathrooms, and BHK (bedrooms, hall, kitchen). The dataset appears to be sourced from a real estate platform in India, particularly focusing on properties in Bangalore.
 
